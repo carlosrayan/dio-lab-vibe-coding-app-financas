@@ -446,7 +446,7 @@ No README do seu repositório, inclua:
   - O que não funcionou como o esperado?  
   - O que aprendeu sobre conversar com IAs?
 
-> [!TIP]
+> Link Lovable: https://pixel-perfect-render-9315.lovable.app
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
